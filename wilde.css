@@ -1,0 +1,96 @@
+.stage-direction:hover{
+    color: red;
+    background-color: lightgray;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+.name:hover{
+    color: black;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px red;
+    filter: blur(0.5px);
+    border: solid magenta;
+}
+.speech{
+    color: green;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+.scene{
+    color: hotpink;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.petro{
+    color: brown;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paul{
+    color: magenta;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.countr{
+    color: blanchedalmond;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.czare{
+    color: cyan;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.baron{
+    color: blueviolet;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.marquies{
+    color: moccasin;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.aide{
+    color: aqua;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.czar{
+    color: brown;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table { border: solid 3px;
+    overflow: auto;
+    border-collapse: collapse;
+width: 75%;}
+th {border: solid 1px;
+        text-align: center;
+    padding: 1%;}
+td {border: solid 1px;
+    text-align: left;
+padding: 1.5%;}
+tr {background-color:salmon ;}
+tr:nth-child(even) {background-color: lightblue;} 
+ul {
+    list-style-type: none;
+    margin: 2%;
+    padding: 0;
+    overflow: hidden;
+    background-color: cornsilk;
+  }  
+  li {
+    float: left;
+  }  
+  li a {
+    display: block;
+    color: blue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover{
+    background-color: #111;
+  }
