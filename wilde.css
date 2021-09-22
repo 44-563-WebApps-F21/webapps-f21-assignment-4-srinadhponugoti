@@ -17,13 +17,7 @@
 }
 .name:hover{
     color:pink;
-    font-size: large;
-    font-family: 'Times New Roman', Times, serif;
-    text-shadow: 1px 1px red; 
-    filter: blur(0.5px);
-    border: solid magenta;
-}
-.speech{
+    font-size
     color:orange;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
