@@ -1,64 +1,75 @@
-.stage-direction:hover{
-    color: red;
+.stage-direction{
+    color:green;
     background-color: lightgray;
     font-size: medium;
     font-family: 'Courier New', Courier, monospace;
 }
-.name:hover{
-    color: black;
+.stage-direction:hover{
+    color:blue;
+    background-color: lightgray;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+.name{
+    color:black;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
-    text-shadow: 1px 1px red;
+}
+.name:hover{
+    color:pink;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px red; 
     filter: blur(0.5px);
     border: solid magenta;
 }
 .speech{
-    color: green;
+    color:orange;
     font-size: medium;
     font-family: 'Times New Roman', Times, serif;
 }
 .scene{
-    color: hotpink;
+    color:red;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.petro{
-    color: brown;
+.marchmont{
+    color:yellow;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.paul{
-    color: magenta;
+.basildon{
+    color: aquamarine;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.countr{
-    color: blanchedalmond;
+.mason{
+    color:blueviolet;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.czare{
-    color: cyan;
+.lord{
+    color:chocolate;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.baron{
-    color: blueviolet;
+.lady{
+    color:darkgoldenrod;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.marquies{
-    color: moccasin;
+.lmabel{
+    color: navajowhite;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.aide{
-    color: aqua;
+.markby{
+    color:magenta;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
-.czar{
-    color: brown;
+.chiltern{
+    color:gold;
     font-size: medium;
     font-family: Arial, Helvetica, sans-serif;
 }
